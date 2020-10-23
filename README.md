@@ -1,8 +1,8 @@
-# Mongoose OS - an IoT firmware development framework - Basics 
+# Mongoose OS - an IoT firmware development framework -
 
 ## The examples are the basics of mongoose os to getting started and ease with API reference.
 
-#### Examples: #### <br/>
+#### Examples:  <br/>
 ***Core API:***  <br/>
           GPIO, Timers, ISR, Device configuration, RTOS tasks, File system configuration, etc<br/>
 ***Networking:*** <br/>
