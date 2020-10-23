@@ -5,7 +5,7 @@
 #### Examples:  <br/><br/>
 ***Core API:***  <br/>
           GPIO, Timers, ISR, Device configuration, RTOS tasks, File system configuration, etc<br/><br/>
-***Networking:*** <br/><br/>
+***Networking:*** <br/>
           WIFI modes(STA  and AP), HTTP, HTTP - server, HTTPS, OTA, Web sockets.<br/><br/>
 ***Protocols:*** <br/>
           MQTT, I2C, SPI.<br/><br/>
