@@ -6,8 +6,8 @@
 <br/>Data is published over MQTT for every button press.
 <br/>In the mos.yml file, under the config_schema section, please find the MQTT configuration, and under libs find the link to the MQTT git repository.
 <br/><br/>
-Note: The controller platform used for this project is ESP32, and for more MQTT functionalities, please refer to the mongoose os MQTT section.
+Note: The controller platform used for this project is ESP32, and for more MQTT APIs, please refer to the mongoose os MQTT section.
 <br/><br/>
 
 Regards
-Lokesh CJ
+<br/>Lokesh CJ

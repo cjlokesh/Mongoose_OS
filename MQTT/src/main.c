@@ -13,7 +13,7 @@ void gpio_init();
 enum mgos_app_init_result mgos_app_init(void)
 {
 
-  gpio_init(); //Intilizing the led, button pin and registering the ISR
+  gpio_init(); //Intilizing button pin and registering the ISR
   return MGOS_APP_INIT_SUCCESS;
 }
 
